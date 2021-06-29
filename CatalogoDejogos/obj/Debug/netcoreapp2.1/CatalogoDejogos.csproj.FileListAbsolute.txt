@@ -1,0 +1,15 @@
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.deps.json
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.runtimeconfig.json
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.runtimeconfig.dev.json
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.dll
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.csprojAssemblyReference.cache
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.RazorAssemblyInfo.cache
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.RazorAssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.AssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.pdb
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.dll
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\obj\Debug\netcoreapp2.1\CatalogoDejogos.pdb
+C:\Users\leonardo.vieira\source\repos\CatalogoDejogos\CatalogoDejogos\bin\Debug\netcoreapp2.1\CatalogoDejogos.xml

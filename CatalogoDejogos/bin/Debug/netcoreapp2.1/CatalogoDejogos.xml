@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CatalogoDejogos</name>
+    </assembly>
+    <members>
+        <member name="M:CatalogoDejogos.Controllers.v1.JogosController.Obter(System.Int32,System.Int32)">
+            <summary>
+             Busca todos os jogos de forma paginada
+            </summary>
+            <param name="pagina"></param>
+            <param name="quantidade"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
